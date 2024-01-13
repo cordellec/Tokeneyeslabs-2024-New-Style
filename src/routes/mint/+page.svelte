@@ -6,7 +6,6 @@
                 class="h-auto max-w-full rounded-lg max-h-48 md:max-h-full"
                 src="../images/ETHEREUM.png"
                 alt=""
-                on:contextmenu={disableRightClick}
             />
         </a>
     </div>
@@ -20,7 +19,6 @@
                 class="h-auto max-w-full rounded-lg max-h-48 md:max-h-full"
                 src="../images/BASE.png"
                 alt=""
-                on:contextmenu={disableRightClick}
             />
         </a>
     </div>
@@ -32,7 +30,6 @@
                 class="h-auto max-w-full rounded-lg max-h-48 md:max-h-full"
                 src="../images/xrp.png"
                 alt=""
-                on:contextmenu={disableRightClick}
             />
         </a>
     </div>
@@ -44,7 +41,6 @@
                 class="h-auto max-w-full rounded-lg max-h-48 md:max-h-full"
                 src="../images/SOLANA.png"
                 alt=""
-                on:contextmenu={disableRightClick}
             />
         </a>
     </div>
@@ -56,7 +52,6 @@
                 class="h-auto max-w-full rounded-lg max-h-48 md:max-h-full"
                 src="../images/CHAINLINK.png"
                 alt=""
-                on:contextmenu={disableRightClick}
             />
         </a>
     </div>
@@ -68,7 +63,6 @@
                 class="h-auto max-w-full rounded-lg max-h-48 md:max-h-full"
                 src="../images/TRON.png"
                 alt=""
-                on:contextmenu={disableRightClick}
             />
         </a>
     </div>
@@ -80,7 +74,6 @@
                 class="h-auto max-w-full rounded-lg max-h-48 md:max-h-full"
                 src="../images/AVALANCHE.png"
                 alt=""
-                on:contextmenu={disableRightClick}
             />
         </a>
     </div>
@@ -92,7 +85,6 @@
                 class="h-auto max-w-full rounded-lg max-h-48 md:max-h-full"
                 src="../images/QUANT.png"
                 alt=""
-                on:contextmenu={disableRightClick}
             />
         </a>
     </div>
