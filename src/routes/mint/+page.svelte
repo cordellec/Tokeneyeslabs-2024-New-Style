@@ -33,7 +33,7 @@
 		<a href="/ripple">
 			<img
 				class="h-auto max-w-full rounded-lg"
-				src="../images/RIPPLE.png"
+				src="../images/xrp.png"
 				alt=""
 				on:contextmenu={disableRightClick}
 			/>

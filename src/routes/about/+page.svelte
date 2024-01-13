@@ -34,7 +34,7 @@
 	</div>
 	<div class="flex justify-center items-center text-center">
 		<img
-			src="../images/RIPPLE.png"
+			src="../images/xrp.png"
 			alt="Skeleton Logo"
 			class="w-96 mt-8 md:mt-0"
 			on:contextmenu={disableRightClick}
