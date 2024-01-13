@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind variants;
+
+html,
+body {
+	@apply h-full overflow-hidden;
+}
+
+@font-face {
+	/* Reference name */
+	font-family: 'fredoka';
+	/* For multiple files use commas, ex: url(), url(), ... */
+	src: url('/font/fredoka.ttf');
+}
+
+:root [data-theme='wintry'] {
+	--theme-font-family-base: 'fredoka', sans-serif;
+	--theme-font-family-heading: 'fredoka', sans-serif;
+	/* ... */
+}
