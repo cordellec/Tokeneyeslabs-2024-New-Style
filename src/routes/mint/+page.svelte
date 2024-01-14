@@ -1,4 +1,5 @@
-<section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 xl:grid-cols-4 gap-4 mx-auto m-4 max-w-screen-lg pt-8 mt-24">
+
+<section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 xl:grid-cols-4 gap-4 mx-auto m-4 max-w-screen-lg pt-8 mt-8">
     <!-- Image 1 -->
     <div class="flex items-center justify-center hover:opacity-80 cursor-pointer">
         <a href="/ethereum">
