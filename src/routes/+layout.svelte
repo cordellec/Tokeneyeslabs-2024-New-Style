@@ -33,7 +33,7 @@
 	<div class="mt-12 flex justify-center items-center space-x-4">
 
     <a
-				href="https://discord.com/invite/TwVywVhpfp"
+				href="https://discord.gg/4uHmvWpXtG"
 				target="_blank"
 				rel="noreferrer"
 				class="flex items-center justify-center"
