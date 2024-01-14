@@ -28,7 +28,7 @@
         </div>
 
         <div class="flex justify-center items-center mt-12 mb-12">
-            <h1 class="text-center text-black text-4xl md:text-6xl" id="hero">EXCLUSIVELY <br /> MINTING ONLY <br /> ON BASE</h1>
+            <h1 class="text-center text-black text-4xl md:text-6xl" id="hero"> MINTING <br /> ONLY <br /> ON BASE</h1>
         </div>
     </div>
 </div>
