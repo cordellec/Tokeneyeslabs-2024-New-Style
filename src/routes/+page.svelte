@@ -10,8 +10,8 @@
         </div>
 
         <div class="col-start-4 col-span-2 ml-8 flex justify-center items-center">
-            <h1 class="text-center text-black text-6xl" id="hero">EXCLUSIVELY<br /> MINTING ONLY <br /> ON BASE</h1>
-            <img src="../icons/baselogo.png" class="w-16 h-16 ml-4 mt-4" alt="Logo" />
+            <h1 class="text-center text-black text-6xl" id="hero">MINTING <br /> ONLY <br /> ON BASE</h1>
+            
         </div>
     </div>
 </div>

@@ -9,9 +9,9 @@
   <div class="p-4 rounded-sm mt-8">
     <div class="mt-8 flex flex-col md:flex-row justify-center items-center md:space-x-4">
         <div></div>
-        <div class="btn-group variant-ghost-surface text-center text-black font-fredoka">
+        <div class="btn-group variant-ghost-surface">
           <a href="/about"> 
-            <button class="w-full md:w-auto">ABOUT</button>
+            <button class="w-full md:w-auto font-[var(--theme-font-family-heading)]">ABOUT</button>
           </a>
             <a href="/mint"> 
             <button class="w-full md:w-auto">MINT</button>
